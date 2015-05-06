@@ -1,4 +1,4 @@
-# Copyright (C) 2013 OmniROM Project
+# Copyright (C) 2013 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@ include device/samsung/msm7x27a-common/msm7x27a.mk
 
 ## Build torch app
 PRODUCT_PACKAGES += \
-    OmniTorch
+    Torch
 
 ifndef BUILD_RECOVERY
 ## Splash screen
